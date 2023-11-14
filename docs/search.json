@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "generative_qr.html#what-is-generative-ai",
+    "href": "generative_qr.html#what-is-generative-ai",
+    "title": "Generative AI",
+    "section": "What is Generative AI",
+    "text": "What is Generative AI\nGenerative AI generates new content based on an input(s). Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types of data.\n\nHow Does Generative AI Work?\nGenerative AI models use neural networks to identify the patterns and structures within existing data to generate new and original content.\n\n\n Real image from Wikipedia"
+  },
+  {
+    "objectID": "generative_qr.html#what-is-a-qr-quick-response-code",
+    "href": "generative_qr.html#what-is-a-qr-quick-response-code",
+    "title": "Generative AI",
+    "section": "What is a QR (Quick Response) Code",
+    "text": "What is a QR (Quick Response) Code\n\n\nInvented in 1994, by Japanese company Denso Wave for labelling automobile parts.\n\nA QR code (quick-response code) is a type of two-dimensional matrix barcode.\n\nA QR code consists of black squares arranged in a square grid on a white background, with fiducial markers.\n\nIt is read by a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. (wikipedia)\n\nYou can store any text in a QR Code."
+  },
+  {
+    "objectID": "generative_qr.html#binary-encoder",
+    "href": "generative_qr.html#binary-encoder",
+    "title": "Generative AI",
+    "section": "Binary Encoder",
+    "text": "Binary Encoder\n\nBy Bobmath - Own work, CC0"
+  },
+  {
+    "objectID": "generative_qr.html#what-is-a-bitbyte-and-binary",
+    "href": "generative_qr.html#what-is-a-bitbyte-and-binary",
+    "title": "Generative AI",
+    "section": "What is a bit/byte and Binary?",
+    "text": "What is a bit/byte and Binary?\n\nBit: 0 or 1: Black or White\nByte: 8 Bits\n\nBinary:\n\n00000001 = 1\n00000010 = 2\n00000100 = 4\n00010100 = 36\n11111111 = 255 aka \\(2^8-1\\)"
+  },
+  {
+    "objectID": "generative_qr.html#importance-of-black-and-white",
+    "href": "generative_qr.html#importance-of-black-and-white",
+    "title": "Generative AI",
+    "section": "Importance of Black and White",
+    "text": "Importance of Black and White\n\nThresholding\nColors\nFilled or partical filled squares. Which is why the below all work."
+  },
+  {
+    "objectID": "generative_qr.html#gen-ai-qr-gemcity.tech",
+    "href": "generative_qr.html#gen-ai-qr-gemcity.tech",
+    "title": "Generative AI",
+    "section": "Gen AI QR: GemCity.TECH",
+    "text": "Gen AI QR: GemCity.TECH\nGen AI QR takes advantage of the fact that you do not need full squares and colors (for plain qr) is not used."
+  },
+  {
+    "objectID": "generative_qr.html#promt",
+    "href": "generative_qr.html#promt",
+    "title": "Generative AI",
+    "section": "Promt",
+    "text": "Promt\npromt: GemCity TECH’s mission is to grow the Dayton industry and the Gem City community by providing a centralized destination for technical training, workshops and providing a forum for collaborating"
+  },
+  {
+    "objectID": "generative_qr.html#black-and-white",
+    "href": "generative_qr.html#black-and-white",
+    "title": "Generative AI",
+    "section": "Black and White",
+    "text": "Black and White"
+  },
+  {
+    "objectID": "generative_qr.html#tools",
+    "href": "generative_qr.html#tools",
+    "title": "Generative AI",
+    "section": "Tools",
+    "text": "Tools\n\nQuickAR Art\nStable Diffusion (seems really popular)\nHugging Face: Could not get nice ones\n\n\n\n\nGem City Tech ML/AI"
+  },
+  {
+    "objectID": "OpenRemarks.html#gem-city-ml",
+    "href": "OpenRemarks.html#gem-city-ml",
+    "title": "Gem City ML",
+    "section": "Gem City ML",
+    "text": "Gem City ML\n\n\nGem City ML’s goal is to have a space where people can present and learn new ML/AI ideas, ask for help on problems they are working on, and meet new people.\n\nWe have short talks about machine learning (ML) and how to get into this field.\n\nThe format is:\n\nSocial: ~ 30 min\nLecture: ~ 1 hour\nSocial: ~ 30 min\n\nTalks have ranged from MLOps, modeling CO2 to predict occupancy, to A/B Testing.\n\nMeetings:\n\nTime: Third Thursday at 6pm\nLocation: the Innovation Hub / Arcade in Downtown Dayton\n\n\n\n\n\nMeetup \n\n\nDiscord"
+  },
+  {
+    "objectID": "OpenRemarks.html#gem-city-tech",
+    "href": "OpenRemarks.html#gem-city-tech",
+    "title": "Gem City ML",
+    "section": "Gem City Tech",
+    "text": "Gem City Tech\n\n\nGemCity TECH’s mission is to grow the Dayton’s industry and the community by providing a centralized destination for technical training, workshops and providing a forum for collaborating.\n\nCurrently, supports several special interest groups from a variety of technical disciplines.\n\nDayton Web Developers\nDayton Dynamic Languages\nDayton .net Developers\nGem City Games Developments\nNew to Tech\nFrameworks\nMachine Learning / Artificial Intelligence (ML/AI)\nCode for Dayton\nGem City Mechatronics\nAutonomous Miami Valley\n\n\n\n\n\nMeetup \n\n\nDiscord"
+  },
+  {
+    "objectID": "OpenRemarks.html#big-thanks-to-our-sponsors",
+    "href": "OpenRemarks.html#big-thanks-to-our-sponsors",
+    "title": "Gem City ML",
+    "section": "Big Thanks to our Sponsors",
+    "text": "Big Thanks to our Sponsors\n \n\n\nGem City Tech\n\n\nThe Hub\n\n\nTechnology First\n\n\n\n\nGemCity TECH: GemCity.Tech\nThe Innovation Hub: thehubdayton.com\nTechnology First: www.technologyfirst.org"
+  },
+  {
+    "objectID": "OpenRemarks.html#code-of-conduct",
+    "href": "OpenRemarks.html#code-of-conduct",
+    "title": "Gem City ML",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nWe expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the GemCity TECH community and no longer having access to the associated benefits. If you witness a violation of our Code of Conduct, please notify us. Always feel empowered to say something and please escalate any concerns immediately to someone on the staff or leadership team or email help@gemcity.tech.\nWelcome Everyone\nOur community members are our family. Come hang out with us to learn and collaborate on a wide range of technology topics. We do not tolerate discrimination of any kind, especially on the basis of race, ethnicity, gender, religion, sexual orientation, national origin, disability, gender identity, socioeconomic status, or citizenship status. We are committed to creating a non-hostile meeting and event space for all.\nTreat Others & The Space With Respect\nRespect and allow everyone to express their opinions, concerns, and needs. Listen with the intention to understand. Respect the privacy of everyone in our community.\nPlease pick up after yourself. Treat communal spaces with respect. If you move something, put it back. Leave the space as you found it or better.\nHarassment Is Not Tolerated\nWe do not tolerate harassment of any kind. Unwanted texting, calling, emailing, following, stalking, badgering, intimidating, or threatening will result in being removed from the GemCity TECH community.\nHarassment also includes sexual harassment in any form such as teasing, jokes, innuendos, images, gestures, touching, grabbing, or giving gifts of a sexual or unwanted nature.\nIf someone tries to move on from the conversation, let them go. If someone explicitly tells you to leave them alone, then leave them alone. If you are unsure if your behavior is inappropriate, don’t do it. Always err on the side of making a comfortable environment based on the other person’s standards, not your own.\nProfessional Environment\nGemCity TECH is a community of event attendees, community organizers, sponsors, guests, and board members. This is a professional environment and should be treated as such. These are your peers, so please treat each other like peers. Be courteous, kind, and respectful at all times.\nDiversity Encouraged & Celebrated\nGemCity TECH is committed to building a diverse and inclusive community and believe doing so will lead to better overall collaboration.\nPay It Forward\nBeing part of our community means helping each other out without expectation of anything in return. Help other members of the community by making introductions, sharing your experience, or just listening.\nAbide By The Law\nDo not participate in any illegal activities.\nWe do not allow the use of illegal drugs, illegal hacking, and anything that would put our community in jeopardy.\nSmoking, vaping, or chewing is not allowed in our space.\nDo not take other people’s physical property. Do not take other people’s intellectual property…but, we encourage you to contribute to open source.\nThe GemCity TECH Code of Conduct is a living document managed by our community. If you have any suggestions, please feel free to contact us."
+  },
+  {
+    "objectID": "OpenRemarks.html#other",
+    "href": "OpenRemarks.html#other",
+    "title": "Gem City ML",
+    "section": "Other",
+    "text": "Other\nBathrooms\nBathrooms are located in the building"
+  },
+  {
+    "objectID": "OpenRemarks.html#upcoming-events",
+    "href": "OpenRemarks.html#upcoming-events",
+    "title": "Gem City ML",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n\nHoliday Party: Dec 12th \n\n\n\nDayton Themed AI Art Contest \n\n\n\n \nNearest exit"
+  },
+  {
+    "objectID": "OpenRemarks.html#now-for-our-first-speaker",
+    "href": "OpenRemarks.html#now-for-our-first-speaker",
+    "title": "Gem City ML",
+    "section": "Now, for our first speaker…",
+    "text": "Now, for our first speaker…\nEd Dunn from Creative Director of 3Dayton\n\n\n\nGem City Tech ML/AI"
+  }
+]

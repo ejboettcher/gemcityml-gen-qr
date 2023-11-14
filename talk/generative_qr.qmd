@@ -1,0 +1,170 @@
+---
+title: "Generative AI "
+subtitle: "to make pretty QR Codes"
+date: "20231116"
+author: "Presented by Evelyn J. Boettcher"
+title-slide-attributes:
+    data-background-image: 'img/logos/gem_cityML_slide.png'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+format:
+    revealjs:
+        incremental: false
+fig-cap-location: margin
+---
+
+## What is Generative AI 
+
+Generative AI generates new content based on an input(s). Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types of data.  
+  
+  
+<br>  
+
+### How Does Generative AI Work?
+Generative AI models use neural networks to identify the patterns and structures within existing data to generate new and original content.  
+
+:::{.columns}
+::::{.column width=49%}
+![](./img/Grosser_Panda.JPG)
+Real image from Wikipedia
+::::
+::::{.column width=49%}
+![](./img/DALLEpandacodingatacomputer.png)
+::::
+:::
+
+
+## What is a QR (Quick Response) Code
+
+
+:::{.columns}
+::::{.column width=60%}
+Invented in 1994, by Japanese company Denso Wave for labelling automobile parts.  
+<br>
+
+A QR code (quick-response code) is a type of two-dimensional matrix barcode.  
+<br>
+
+A QR code consists of **black squares** arranged in a square grid on a **white background**, with fiducial markers.  
+<br>  
+
+
+It is read by a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. (wikipedia)  
+<br>  
+
+
+You can store any text in a QR Code.
+::::
+::::{.column width=39%}
+![](./img/2880px-QR_Code_Structure_Example_3.svg.png) 
+::::
+:::
+
+## Binary Encoder
+
+
+![By Bobmath - Own work, CC0](img/QR_Character_Placement.svg)
+
+
+## What is a bit/byte and Binary?
+
+* Bit: 0 or 1: Black or White
+* Byte: 8 Bits
+
+### Binary: 
+
+* 00000001 = 1
+* 00000010 = 2
+* 00000100 = 4
+* 00010100 = 36
+* 11111111 = 255  aka $2^8-1$
+
+
+## Importance of Black and White
+
+* Thresholding
+* Colors 
+
+* Filled or partical filled squares.  Which is why the below all work.
+
+:::{.columns}
+::::{.column width=24%}
+
+![](img/qr_d.png)
+::::
+::::{.column width=24%}
+ ![](img/qr_c.png)
+::::
+::::{.column width=24%}
+ ![](img/qr_b.png)
+::::
+::::{.column width=24%}
+ ![](img/qr_a.png)
+::::
+:::
+
+---
+
+:::{.columns}
+::::{.column width=49%}
+
+### Gen AI QR is not
+
+* QR with cut out and art pasted in
+  * With High reliable QR setting you can replace up to 35% of the image.
+
+![](./img/qr_motocycle.jpg)
+::::
+::::{.column width=49%}
+
+![](./img/computer_qr.png)  
+
+* QR cut and pasted into an image
+::::
+:::
+
+## Gen AI QR: GemCity.TECH
+Gen AI QR takes advantage of the fact that you do not need full squares and colors (for plain qr) is not used.
+
+:::{.columns}
+::::{.column width=49%}
+![](./img/gemcity_plain-qr.png)
+::::
+::::{.column width=49%}
+![](./img/gem_city_qrai.png)
+::::
+:::
+
+
+## Promt
+
+promt: GemCity TECH’s mission is to grow the Dayton industry and the Gem City community by providing a centralized destination for technical training, workshops and providing a forum for collaborating
+
+
+
+:::{.columns}
+::::{.column width=49%}
+![](./img/gem_city_qrai.png)
+::::
+::::{.column width=49%}
+![](./img/qr-building.png)
+::::
+:::
+
+## Black and White
+
+:::{.columns}
+::::{.column width=49%}
+![](./img/gem_city_qrai_blk.png)
+::::
+::::{.column width=49%}
+![](./img/qr-building_blk.png)
+::::
+:::
+
+## Tools
+
+* [QuickAR Art](https://quickqr.art/)
+* Stable Diffusion (seems really popular)
+* Hugging Face: Could not get nice ones
