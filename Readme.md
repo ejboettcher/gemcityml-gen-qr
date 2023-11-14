@@ -1,36 +1,61 @@
-## GemCity ML: Green AI
-### October, 19 2023
+## GemCity ML: Generative QR Codes
+### Nov. 16 2023
 ### Evelyn J. Boettcher
 
-Last year I gave a talk on how to use Tensorflow to predict when we will have another sunspot,from a tutorial from DeepLearning AI:
- 
-[Deeplearning-AI worksheet on fitting Sun Spot data with timeseries](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_3_Sunspots_CNN_RNN_DNN.ipynb)
+## What is Generative AI 
 
+Generative AI generates new content based on an input(s). Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types of data.  
+  
+  
+<br>  
 
-| Raw data | Prediction |
-|:---:|:---:|
-| ![](./talk/data/sun_spot.png) |![](./talk/data/sun_spot_predicted.png)|
-
-
-### This go around
-
-Going to use a green algorithm: SVD.
-
-Green AI are a group of classical algorithms that use information about the system to predict / classify.  They have the following advantages:
-
-* Fast to train
-* Fast to run
-* Many cases probability is meaningful.
-
-| SVD Prediction |
-|:----- |
-| ![](./talk/img/svd_prediction_sunspots.png) |
-
-
-They fail at object detection in images, but there are many other use cases.
-
-https://sthalles.github.io/svd-for-regression/ 
+### How Does Generative AI Work?
+Generative AI models use neural networks to identify the patterns and structures within existing data to generate new and original content.  
 
 
 
+## What is a QR (Quick Response) Code
 
+
+:::{.columns}
+::::{.column width=60%}
+Invented in 1994, by Japanese company Denso Wave for labelling automobile parts.  
+<br>
+
+A QR code (quick-response code) is a type of two-dimensional matrix barcode.  
+<br>
+
+A QR code consists of **black squares** arranged in a square grid on a **white background**, with fiducial markers.  
+<br>  
+
+
+It is read by a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. (wikipedia)  
+<br>  
+
+
+You can store any text in a QR Code.
+
+## Binary Encoder
+
+
+
+## What is a bit/byte and Binary?
+
+* Bit: 0 or 1: Black or White
+* Byte: 8 Bits
+
+### Binary: 
+
+* 00000001 = 1
+* 00000010 = 2
+* 00000100 = 4
+* 00010100 = 36
+* 11111111 = 255  aka $2^8-1$
+
+
+## Importance of Black and White
+
+* Thresholding
+* Colors 
+
+* Filled or partical filled squares.  Which is why the below all work.
